@@ -68,9 +68,7 @@ Focused on building **high-performance**, **user-centric**, and **secure** appli
 ---
 
 ## 📈 GitHub Performance
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AnirudhSGopal&theme=tokyonight" />
-</p>
+
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=AnirudhSGopal&show_icons=true&theme=tokyonight&hide_border=true" />
