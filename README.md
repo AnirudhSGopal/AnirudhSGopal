@@ -15,7 +15,7 @@
 
 ## 👨‍💻 About Me
 
-Third-year **Computer Science undergraduate** at Acharya Institute of Technology (VTU) with a **Minor in Artificial Intelligence from IIT Ropar**. I build and ship **production-grade full-stack and AI-powered web applications**, specialising in RAG pipelines, LLM integration, REST API design, and containerised cloud deployments.
+Final-year **Computer Science undergraduate** at Acharya Institute of Technology (VTU) with a **Minor in Artificial Intelligence from IIT Ropar**. I build and ship **production-grade full-stack and AI-powered web applications**, specialising in RAG pipelines, LLM integration, REST API design, and containerised cloud deployments.
 
 - 🚀 Delivered **40% faster codebase diagnosis** via AI-powered RAG tooling
 - ⚡ Improved **query performance by ~30%** through optimised PostgreSQL schema design
