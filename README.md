@@ -71,7 +71,7 @@ Final-year **Computer Science undergraduate** at Acharya Institute of Technology
 > `FastAPI` · `React.js` · `ChromaDB` · `Redis` · `Docker` · `Multi-LLM`
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/AnirudhSGopal/pr.guard)
-[![Live Demo](https://img.shields.io/badge/Live_Demo-4BA3FF?style=flat-square&logo=vercel&logoColor=white)](https://your-live-demo-link.com)
+[![Live Demo](https://img.shields.io/badge/Live_Demo-4BA3FF?style=flat-square&logo=vercel&logoColor=white)](https://pr-guards.vercel.app/)
 
 - Architected a full-stack RAG developer tool with **multi-LLM support** (Claude, GPT-4o, Gemini 1.5 Pro), cutting codebase issue diagnosis time by **40%**
 - Built **15+ RESTful APIs** with SQLAlchemy ORM, Alembic migrations, and Redis rate limiting following MVC architecture
